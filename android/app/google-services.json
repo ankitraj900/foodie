@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133024396597",
+    "project_id": "foodiee-a9d0f",
+    "storage_bucket": "foodiee-a9d0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133024396597:android:6f001c32f5fa7fa36f887c",
+        "android_client_info": {
+          "package_name": "com.example.foodiiee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1FbQHGN3PDV9lWV9mFifYbpFjZX2GpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
